@@ -2,13 +2,12 @@ name: cleanpy
 channels:
   - defaults
 dependencies:
+  - python=3.11
   - ipykernel
   - numpy
   - pandas
   - matplotlib
-  - python=3.11
   - seaborn
-  - intel-openmp
-  - mkl
-  - mkl-service
   - scikit-learn
+  - scipy
+
