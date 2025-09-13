@@ -55,7 +55,7 @@ conda activate cleanpy
 ```
 ---
 ## Main libraries used:
-- Python 3.x
+- Python 3.11
 - scikit-learn
 - pandas
 - numpy
