@@ -1,0 +1,15 @@
+name: cleanpy
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - python=3.11
+  - seaborn
+  - intel-openmp
+  - mkl
+  - mkl-service
+  - scikit-learn
+prefix: C:\Users\zhuzh\anaconda3\envs\cleanpy
