@@ -45,12 +45,13 @@ data/
 
 
 --- 
-
 ## Installation
-To run the notebooks locally, install the required dependencies:
+
+To reproduce the experiments, create the Conda environment from the `environment.yml` file:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate cleanpy
 ```
 ---
 ## Main libraries used:
