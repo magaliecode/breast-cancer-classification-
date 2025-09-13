@@ -12,4 +12,3 @@ dependencies:
   - mkl
   - mkl-service
   - scikit-learn
-prefix: C:\Users\zhuzh\anaconda3\envs\cleanpy
